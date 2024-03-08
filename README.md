@@ -19,9 +19,11 @@ Data Visualization
 # Technologies Used
 
 Microsoft Excel
-MSSQL Server and SQL Server Management Studio
-Microsoft PowerBI
-Dataset Dataset has been imported from the Kaggle Data Libray for analysis purpose. Dataset has 48620 Rows and 12 Columns.
+Python - Pandas, Matplotlib and Seaborn Libraries.
+
+# Dataset 
+Dataset has been imported from the Kaggle Data Libray for analysis purpose. 
+Dataset has 17413 Rows and 11 Columns.
 
 # Project Description 
 This project is part of my Data Technician Bootcamp by JustIT Ltd. UK. 
@@ -30,10 +32,4 @@ As part of this project I have imported the Datset from Kaggle Data Library, aft
 The data has been cleaned and exported and the new data has been imported into Tableau to create beautiful Data Visualizations. 
 This project includes the Data Load, Transformation and Analysis of the data and then turning Data into beautiful visuals which helps to make insights extracted from the Data Visualizations.
 
-# Needs of this project
 
-data exploration
-data processing
-data cleaning
-data modeling
-writeup/reporting
