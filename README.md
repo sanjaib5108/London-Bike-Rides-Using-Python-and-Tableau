@@ -2,7 +2,7 @@
 
 # Project Description
 
-Londomn Bike Rides Using Python and Tableau
+London Bike Rides Using Python and Tableau
 I have taken this Project to see the Trends of a London Bike Rides and created Data Visualizations using Tableau.
 
 # Project Intro/Objective 
